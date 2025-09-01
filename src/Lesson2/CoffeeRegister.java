@@ -68,7 +68,7 @@ public class CoffeeRegister {
 
 
         boolean isStudent = true;
-        
+
 
         //Debug and Bug
         double itemPrice = 3.49;
